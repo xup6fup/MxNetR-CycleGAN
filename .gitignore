@@ -3,6 +3,10 @@
 .Rapp.history
 
 # Session Data files
+monet2photo/*
+code/2. Training (old version)*
+result/*
+model/*
 .RData
 
 # Example code in package build process
