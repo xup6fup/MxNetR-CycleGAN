@@ -45,3 +45,11 @@ One more!
 </p>
 
 CycleGAN is a very cool model, let's try to implement it!
+
+# If you just want to use this model.
+
+You can use the code ["1. Photo2Monet.R"](https://github.com/xup6fup/MxNetR-CycleGAN/blob/master/code/3.%20Use%20model/1.%20Photo2Monet.R) for processing a photo. Here we prepared a well-trained model for your experiment. The 'P2M_gen_v1-0000.params' and 'P2M_gen_v1-symbol.json' can be found in the folder 'well trained model'. This is a CycleGAN trained without identity mapping loss. The version 2 model is to use the identity mapping loss for training. You can find 'P2M_gen_v2-0000.params' and 'P2M_gen_v2-symbol.json'. Here we use the 'input_photo.png' for testing the model.
+
+# If you want to train a CycleGAN.
+
+
