@@ -72,7 +72,7 @@ Use the model
 The code ["1. Photo2Monet.R"](https://github.com/xup6fup/MxNetR-CycleGAN/blob/master/code/3.%20Use%20model/1.%20Photo2Monet.R) can be used to process a photo, and the demonstration is show as above. If you want to get this parameters and further usage, you can use the code ["2. Save model parameters.R"](https://github.com/xup6fup/MxNetR-CycleGAN/blob/master/code/3.%20Use%20model/2.%20Save%20model%20parameters.R) to save them. If you want to visualized the model performance, you can use the code ["3. Plot a specific image.R"](https://github.com/xup6fup/MxNetR-CycleGAN/blob/master/code/3.%20Use%20model/3.%20Plot%20a%20specific%20image.R). And this is the result of CycleGAN_v1 (without identity mapping loss):
 
 <p align="center">
-  <img src="images/CycleGAN_v1.png" width = 80%>
+  <img src="images/CycleGAN_v1.png" width = 60%>
 </p>
 
 This is the result of CycleGAN_v2 (with identity mapping loss):
